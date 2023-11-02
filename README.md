@@ -1,0 +1,1 @@
+This repository was made so I track my progress while learning Rust from hod course of UdS, WiSe 23/24. Each week there's a new unit to complete (e.g.: u00 stands for unit 0).
